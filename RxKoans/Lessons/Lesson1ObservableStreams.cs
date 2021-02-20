@@ -7,6 +7,7 @@ using System.Reactive.Concurrency;
 using System.Reactive.Linq;
 using System.Reactive.Subjects;
 using System.Threading;
+using Range = Koans.Utils.Range;
 
 namespace Koans.Lessons
 {

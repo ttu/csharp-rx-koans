@@ -2,7 +2,7 @@
 
 Fork from: https://archive.codeplex.com/?p=rxkoans
 
-Project ported from _Full Framework_ to _.NET Core_
+Project ported from _Full Framework_ to _.NET 5_
 
 ---
 

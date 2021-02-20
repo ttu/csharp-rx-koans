@@ -3,6 +3,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 using System.Collections.Generic;
 using System.Reactive.Linq;
+using Range = Koans.Utils.Range;
 
 namespace Koans.Lessons
 {
